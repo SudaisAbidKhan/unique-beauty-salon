@@ -146,7 +146,7 @@ function BookingSection() {
               {isSubmitting ? "Sending..." : "Send Booking Request"}
             </Button>
             <Button
-              href="https://wa.me/923001234567"
+              href="https://wa.me/923225123701"
               variant="secondary"
               target="_blank"
               rel="noreferrer"
