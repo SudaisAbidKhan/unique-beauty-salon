@@ -8,7 +8,7 @@ function Footer() {
           <h3>Walk In. Transform. Leave Glowing.</h3>
           <p>Open 7 days a week · Appointments & Walk-ins Welcome</p>
         </div>
-        <Button href="tel:+923001234567">Reserve Your Spot</Button>
+        <Button href="tel:+923225123701">Reserve Your Spot</Button>
       </div>
 
       <div className="footer-grid">
